@@ -1,0 +1,20 @@
+Algoritma Airlines
+ Algoritma :
+Step 1 : Mendeklarasikan = Penumpang (a, input), Jumlah kursi (b, input), Total (c), Pesawat (d)
+Step 2 : Masukkan Nilai a 
+Step 3 : Nilai a dikurangi oleh nilai b
+Step 4 : Jika nilai c tidak sama dengan 0 kembali nilai pesawat bertambah 1
+Step 5 : Nilai c dikurangi jumlah kursi, kembali ke step 2 
+return
+
+Pseudocode :
+
+deklarasi
+var penumpang, jumlah_kursi, total, pesawat
+penumpang <- 33
+jumlah kursi <- 20
+total = nilai penumpang - jumlah_kursi
+write(total)
+while total ≠ 0 do pesawat = +1
+- total = jumlah_kursi - total
+return penumpang
